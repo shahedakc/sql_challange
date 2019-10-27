@@ -1,3 +1,4 @@
+--Shaheda Choudhury 
 /* 1 Find the details of each employee: employee number, last name, first name, gender, and salary. */
 select employees.emp_no, employees.last_name, employees.first_name, employees.gender, 
 	   salaries.salary
